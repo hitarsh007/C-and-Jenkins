@@ -1,0 +1,7 @@
+C:\Users\prakash\Desktop\LTI Training\GET 873\Prjfirstapplication\Basiceg\obj\Debug\Basiceg.csprojAssemblyReference.cache
+C:\Users\prakash\Desktop\LTI Training\GET 873\Prjfirstapplication\Basiceg\obj\Debug\Basiceg.csproj.CoreCompileInputs.cache
+C:\Users\prakash\Desktop\LTI Training\GET 873\Prjfirstapplication\Basiceg\bin\Debug\Basiceg.exe.config
+C:\Users\prakash\Desktop\LTI Training\GET 873\Prjfirstapplication\Basiceg\bin\Debug\Basiceg.exe
+C:\Users\prakash\Desktop\LTI Training\GET 873\Prjfirstapplication\Basiceg\bin\Debug\Basiceg.pdb
+C:\Users\prakash\Desktop\LTI Training\GET 873\Prjfirstapplication\Basiceg\obj\Debug\Basiceg.exe
+C:\Users\prakash\Desktop\LTI Training\GET 873\Prjfirstapplication\Basiceg\obj\Debug\Basiceg.pdb
